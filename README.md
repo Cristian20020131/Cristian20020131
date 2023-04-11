@@ -1,6 +1,6 @@
 - Cristian Ezequiel Durán
 - Argentino
-- 20 años
+- 21 años
 - Aprendiendo Python, HTML, CSS y JavaScript
 - Me gustaría trabajar en proyectos de desarrollo web
 
